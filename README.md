@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Magrawal72
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JQuery
+- 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on Websites
 - 📫 How to reach me by clicking on website!
 
